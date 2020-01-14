@@ -1,5 +1,5 @@
 actions:
-  - label: Sign Up
+  - label: Sign Down
     url: /generic
   - label: Log In
     url: /generic
